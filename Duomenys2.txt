@@ -1,0 +1,4 @@
+﻿Viktoras Šernas; 4; 11; 5
+Meda Ambrozaitienė; 0; 10; 20
+Nedas Balčiūnas; 1; 4; 10
+Zita Zagova; 0; 3; 10

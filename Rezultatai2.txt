@@ -1,0 +1,57 @@
+Pradinis kandidatų sąrašas
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Agnė Popova                             3                   10                     35
+Julius Bosas                            0                   10                     20
+Rasa Visockytė                          6                    3                     10
+Karolis Butkus                          0                    3                     10
+Arina Arinova                           0                    3                     10
+---------------------------------------------------------------------------------------
+
+Naujų kandidatų sąrašas
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Viktoras Šernas                         4                   11                      5
+Meda Ambrozaitienė                      0                   10                     20
+Nedas Balčiūnas                         1                    4                     10
+Zita Zagova                             0                    3                     10
+---------------------------------------------------------------------------------------
+
+Surūšiuotas pradinis kandidatų sąrašas
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Julius Bosas                            0                   10                     20
+Agnė Popova                             3                   10                     35
+Rasa Visockytė                          6                    3                     10
+Arina Arinova                           0                    3                     10
+Karolis Butkus                          0                    3                     10
+---------------------------------------------------------------------------------------
+
+Surūšiuotas naujų kandidatų sąrašas
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Viktoras Šernas                         4                   11                      5
+Meda Ambrozaitienė                      0                   10                     20
+Nedas Balčiūnas                         1                    4                     10
+Zita Zagova                             0                    3                     10
+---------------------------------------------------------------------------------------
+
+Duomenys po įterpimo
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Viktoras Šernas                         4                   11                      5
+Julius Bosas                            0                   10                     20
+Meda Ambrozaitienė                      0                   10                     20
+Agnė Popova                             3                   10                     35
+Nedas Balčiūnas                         1                    4                     10
+Rasa Visockytė                          6                    3                     10
+Arina Arinova                           0                    3                     10
+Karolis Butkus                          0                    3                     10
+Zita Zagova                             0                    3                     10
+---------------------------------------------------------------------------------------
+

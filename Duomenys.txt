@@ -1,0 +1,5 @@
+﻿Agnė Popova; 3; 10; 35
+Julius Bosas; 0; 10; 20
+Rasa Visockytė; 6; 3; 10
+Karolis Butkus; 0; 3; 10
+Arina Arinova; 0; 3; 10
